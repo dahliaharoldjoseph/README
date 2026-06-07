@@ -18,5 +18,3 @@ I am passionate about creating equitable pathways for entrepreneurs and using te
 - Founder Support Infrastructure
 - Social Impact Measurement
 
-## Featured Projects
-⬇️ See repositories below
